@@ -13,3 +13,4 @@ git branch
 git branch feature
 git checkout feature
 git merge feature
+git rebase feature
