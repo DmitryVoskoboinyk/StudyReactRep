@@ -1,0 +1,13 @@
+git init
+git config --global user.name "Dmitry Voskoboinik 2"
+git config --global user.email "voskoboynik87@bk.ru"
+git remote add origin https://github.com/DmitryVoskoboinyk/StudyReactRep.git
+git add .
+git status
+git commit -m "first commit"
+git checkout b239dce1b59b8ed88781f184a70f88e6a97deca9
+git git push origin master
+git pull origin master
+git log
+git branch
+git branch feature
