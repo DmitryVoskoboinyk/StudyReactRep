@@ -12,3 +12,4 @@ git log
 git branch
 git branch feature
 git checkout feature
+git merge feature
